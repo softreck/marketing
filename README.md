@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## https://softreck.github.io/marketing/
 
 You can use the [editor on GitHub](https://github.com/softreck/marketing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
